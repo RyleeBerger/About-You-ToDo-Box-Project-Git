@@ -1,0 +1,71 @@
+h1 {
+  text-align: center;
+  font-size: 100px;
+  background: #32CD32;
+  color: white;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+input{
+  display: block;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 4px solid #32CD32;
+}
+
+/* .User-Info {
+  /* display: flex;
+  flex-direction: column; */
+  /* width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    text-align: center; */
+
+.name {
+  height: 80px;
+  width: 800px;
+  color: green;
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.Favorite-Animal {
+  height: 80px;
+  width: 800px;
+  color: green;
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.Favorite-Color {
+  height: 80px;
+  width: 800px;
+  color: green;
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.Favorite-Food {
+  height: 80px;
+  width: 800px;
+  color: green;
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.Submit-Button {
+  height: 40px;
+  width: 160px;
+  background: #32CD32;
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
